@@ -1,0 +1,20 @@
+:root{
+    --main-blue:#240578e9;
+    --text-color:#bbb;
+    --dark-theme: #091019;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #091019;
+    color: #bbb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
